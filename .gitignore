@@ -3,3 +3,4 @@ package*.json
 .prettierrc
 .vscode
 test
+tests
